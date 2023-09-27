@@ -6,7 +6,7 @@ function idioma(){
     if(id==true){
         location.href="../Español/Es_Luis Londoño.html";
     }else{
-        location.href="../Proyecto Práctico Integrador I/Luis Londoño.html";
+        location.href="../index.html";
     }
 }
 
