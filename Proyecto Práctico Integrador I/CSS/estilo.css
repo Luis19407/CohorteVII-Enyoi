@@ -432,8 +432,8 @@ p .github:hover{
 
 li #imagen_1 { 
     position: relative;
-    height: 320px;
-    width: 300px;
+    height: 300px;
+    width: 290px;
     overflow: hidden;
     border-radius: 10px;
     cursor: pointer;
@@ -489,8 +489,8 @@ li #imagen_1 > .textoDesarrollador p {
 
 li #imagen_2 {  
     position: relative;
-    height: 320px;
-    width: 550px;
+    height: 300px;
+    width: 500px;
     overflow: hidden;
     border-radius: 10px;
     cursor: pointer;
@@ -551,8 +551,8 @@ p .Enyoi:hover{
 
 li #imagen_3 {  
     position: relative;
-    height: 320px;
-    width: 315px;
+    height: 300px;
+    width: 290px;
     overflow: hidden;
     border-radius: 10px;
     cursor: pointer;
@@ -658,10 +658,6 @@ li #imagen_3 > .textoEstudio p {
     align-items: center;
 }
 
-.formulario {
-    height: 100vh;
-}
-
 
 
 .titulo_form h2 {
@@ -733,9 +729,6 @@ textarea:focus {
     background-color: rgba(255, 94, 247, 0.295);
 }
 
-.text-center {
-    padding-bottom: 170px;
-}
 
 .botonEnviar {
     width: 350px;
