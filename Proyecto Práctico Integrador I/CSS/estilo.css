@@ -663,6 +663,7 @@ li #imagen_3 > .textoEstudio p {
 .titulo_form h2 {
     font-size: 65px;
     height: 140px;
+    margin-bottom: 40px;
     color: #100720;
     display: flex;
     justify-content: center;
@@ -678,11 +679,11 @@ li #imagen_3 > .textoEstudio p {
     align-items: center;
 }
 
+
 .tablaContacto {
-    height: 170px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
+    margin-top: 0px;
+    margin-left: 90px;
+    
 }
 
 
@@ -710,6 +711,7 @@ li #imagen_3 > .textoEstudio p {
 }
 
 .mensajeContacto h3 {
+    margin: 50px;
     font-size: 50px;
     color: #100720;
 }
